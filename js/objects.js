@@ -75,14 +75,14 @@ person[key] = value; // Add hairColor property dynamically
 
 // STEP 11a: Create two new objects, each with a name, and a function that outputs the name
 let person1 = {
-    name: "P1",
+    name: "Parth",
     hello: function () {
         alert(`Hello, this is ${this.name}.`);
     }
 };
 
 let person2 = {
-    name: "P2",
+    name: "Ram",
     hello: function () {
         alert(`Hello, this is ${this.name}.`);
     }
